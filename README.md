@@ -1,8 +1,8 @@
 # Algorithms
 
-#### Algorithms 1 || Semester A - Winter 2020
+###### Ariel University, Israel
 
-#### Algorithms 2 || Semester B - Spring 2021
+* **Algorithms 1** Semester A - Winter 2020
 
-### Ariel University, Israel
+* **Algorithms 2** Semester B - Spring 2021
 
