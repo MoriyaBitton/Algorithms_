@@ -6,5 +6,7 @@
 
     Semester A - Winter 2020
 
-* **Algorithms 2:** Semester B - Spring 2021
+* **Algorithms 2:** 
+
+    Semester B - Spring 2021
 
