@@ -1,4 +1,4 @@
 # Algorithms
 
-###### Ariel University, Israel || **Algorithms 1:** Semester A 2020 - 2021 || **Algorithms 2:** Semester B 2021
+###### Ariel University, Israel || _Algorithms 1:_ Semester A 2020 - 2021 || _Algorithms 2:_ Semester B 2021
 
