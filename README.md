@@ -4,9 +4,9 @@
 
 * **Algorithms 1:** 
 
-    Semester A - Winter 2020
+    Semester A 2020 - 2021
 
 * **Algorithms 2:** 
 
-    Semester B - Spring 2021
+    Semester B 2021
 
